@@ -1,0 +1,17 @@
+# Maven
+/target/
+
+# Local tooling/cache
+/.m2/
+/.tools/
+/run.log
+/settings-local.xml
+
+# IDE
+/.idea/
+*.iml
+/.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
